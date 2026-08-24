@@ -1,0 +1,13 @@
+{
+  "name": "reconciliation-runtime",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "tsc --noEmit",
+    "test": "tsx test/runtime.test.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.9.2"
+  }
+}
