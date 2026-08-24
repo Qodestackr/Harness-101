@@ -1,6 +1,4 @@
-# Reconciliation Runtime — Stage 1
-
-This is deliberately not Cordis and not a Harness clone.
+# Reconciliation Runtime :Stage 1
 
 The experiment derives a small set of runtime primitives from one real domain: reconciliation exceptions.
 
