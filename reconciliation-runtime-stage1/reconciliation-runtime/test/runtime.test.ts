@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict'
-import { Runtime } from '../src/runtime.ts'
+import { Runtime } from '../src/runtime.js'
 import type { ReconciliationCase } from '../src/domain.js'
 
 const runtime = new Runtime()
