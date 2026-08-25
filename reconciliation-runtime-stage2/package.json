@@ -1,0 +1,13 @@
+{
+  "name": "reconciliation-runtime-stage2",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "tsx --test test/stage2.test.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^26.3.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}
